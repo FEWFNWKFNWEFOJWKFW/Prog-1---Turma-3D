@@ -1,0 +1,26 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    }
+    .cabeçalho_titulo{
+        font-size: 50px;
+        }
+        .cabeçalho{
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 24px 0;
+            }
+            .apresentaçao_trabalho{
+                background-image
+                display: flex;
+                justify-content: space-around;
+                align-items: center;
+                padding: 24px 0;
+                }
+                
+                .titulo_apresentaçao_trabalho{
+                font-size: 30px;
+                }
+            body{background-color:#ff7e7e;}
+    

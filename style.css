@@ -3,9 +3,9 @@
     padding: 0%;
     }
     .cabeçalho_titulo{
-        font-size: 50px;
+        font-size: 70px;
         }
-        .cabeçalho{
+        .cabeçalho_titulo{
             display: flex;
             justify-content: space-around;
             align-items: center;
@@ -22,5 +22,9 @@
                 .titulo_apresentaçao_trabalho{
                 font-size: 30px;
                 }
+                .escrita_corpo{
+                    font-size: 70px;
+                    }
+
             body{background-color:#ff7e7e;}
     
